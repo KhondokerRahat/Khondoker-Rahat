@@ -50,7 +50,7 @@ My goal is to grow as a professional developer and contribute to real-world proj
 
 📧 **Email:** [mdkhondokerrahat89@gmail.com](mailto:mdkhondokerrahat89@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/khondoker-rahat-4751182bb](https://www.linkedin.com/in/khondoker-rahat-4751182bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-💻 **GitHub:** [github.com/khondoker-rahat](https://github.com/khondoker-rahat)
+💻 **GitHub:** [github.com/Khondoker-Rahat](https://github.com/Khondoker-Rahat)
 
 ---
 
